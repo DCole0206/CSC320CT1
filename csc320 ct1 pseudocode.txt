@@ -1,0 +1,43 @@
+START
+
+
+
+Declare variables:
+
+		firstName as string
+
+		lastName as string
+
+		streetAddress as string
+
+		city as string
+
+		zipCode as string
+
+
+
+Set firstName to "User Input"
+
+Set lastName to "User Input"
+
+Set streetAddress to "User Input"
+
+Set city to "User Input"
+
+Set zipCode to "User Input"
+
+
+
+Print firstName
+
+Print lastName
+
+Print streetAddress
+
+Print city
+
+Print zipCode
+
+
+
+END
